@@ -4,7 +4,7 @@
 
 
 sap.ui.localResources("mytesttable");
-var view = sap.ui.view({id:"vwDictList", viewName:"mytesttable.TableView", type:sap.ui.core.mvc.ViewType.JS});
+var view = sap.ui.view({id:"vwDictList", viewName:"mytesttable.TreeTableView", type:sap.ui.core.mvc.ViewType.JS});
 
 
 var oShell;
